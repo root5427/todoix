@@ -1,2 +1,0 @@
-# todoix
-Todo Application
